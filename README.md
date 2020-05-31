@@ -4,7 +4,7 @@ Python programming for beginners
 This reporitory is created as a study material for Learning python basic.
 It contains following topics for learning.
 
-1. Python Trend and its ppularity slides
+1. Python popularity trend and reasons slides
 2. How to install python and run first hello world program.
 3. Python Programming basics[Variable declaration, datatypes, loops and control structures]
 4. Collections in python[List, Tuple, Set, Dictionary]
